@@ -34,5 +34,13 @@
 
 ## 📫 Contacto
 
-- Instagram: https://www.instagram.com/br4nd4n__he44ra?igsh=enJibWR0eDNucG5u&utm_source=qr
-- Email: brandonherrera2025@gmail.com
+- 📸 Instagram: [@br4nd4n__he44ra](https://www.instagram.com/br4nd4n__he44ra)
+- 📧 Email: brandonherrera2025@gmail.com
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/brandonherrera2025-gif/brandonherrera2025-gif/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
