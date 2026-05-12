@@ -34,5 +34,5 @@
 
 ## 📫 Contacto
 
-- Instagram: @tuusuario
-- Email: tuemail@gmail.com
+- Instagram: https://www.instagram.com/br4nd4n__he44ra?igsh=enJibWR0eDNucG5u&utm_source=qr
+- Email: brandonherrera2025@gmail.com
