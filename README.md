@@ -39,8 +39,3 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/brandonherrera2025-gif/brandonherrera2025-gif/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
